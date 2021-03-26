@@ -5,7 +5,7 @@ obtiene el valor avanzando por filas en una columna, en cambio el second pair
 es al revés. Este es un juego de ı́ndices que se toma en consideración para
 realizar las operaciones correspondientes.
 
-![https://github.com/dabc312GitHub/computacion_paralela_2021_I/blob/master/src/tarea_1/assets/Captura%20de%20pantalla%202021-03-25%20182447.png](Ejemplo visual para un valor MAX de 4)
+![https://github.com/dabc312GitHub/computacion_paralela_2021_I/blob/master/src/tarea_1/assets/Captura de pantalla 2021-03-25 182447.png](Ejemplo visual para un valor MAX de 4)
 
 Imagen 1:  Ejemplo visual para un valor MAX de 4
 
