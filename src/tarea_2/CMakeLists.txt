@@ -6,16 +6,8 @@
 # one task don't affect another task.
 
 
-#project(tarea_1_for)
-#
-#set(CMAKE_CXX_STANDARD)
-#
-#
-## Add tasks subprojects
-#include(cmake/utils.cmake)
-#add_subprojects(${CMAKE_SOURCE_DIR})
+project(tarea_2)
 
-
-add_subdirectory( tarea_1 )
-add_subdirectory( tarea_2 )
-
+message( "Configuring main application - ${PROJECT_NAME} : " )
+message( "\nBuild mode test is: ${CMAKE_BUILD_TYPE}" )
+add_executable( ${PROJECT_NAME}  main.cpp)

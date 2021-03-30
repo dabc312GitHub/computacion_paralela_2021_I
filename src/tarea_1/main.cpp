@@ -12,7 +12,7 @@
 using namespace std;
 using namespace std::chrono;
 
-#define MAX 1000
+#define MAX 1500
 
 double A[MAX][ MAX], x [MAX], y[ MAX];
 
